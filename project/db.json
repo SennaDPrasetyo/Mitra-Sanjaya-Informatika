@@ -1,0 +1,136 @@
+{
+  "location": [
+    {
+      "daerah": "Kebon Jeruk",
+      "kota": "Jakarta"
+    },
+    {
+      "daerah": "Puri",
+      "kota": "Jakarta"
+    },
+    {
+      "daerah": "Jatinegara",
+      "kota": "Jakarta"
+    },
+    {
+      "daerah": "Mangga Dua",
+      "kota": "Jakarta"
+    },
+    {
+      "daerah": "Slipi",
+      "kota": "Jakarta"
+    }
+  ],
+  "doctors": [
+    {
+      "id": 1,
+      "nama": "Sundar Pichoi",
+      "rekomendasi": 468,
+      "bio": "Lorem ipsum dolor sit amet.",
+      "foto": "https://spesialis1.orthopaedi.fk.unair.ac.id/wp-content/uploads/2021/02/depositphotos_39258143-stock-illustration-businessman-avatar-profile-picture.jpg",
+      "daerah": "Kebon Jeruk",
+      "profesi": "Dentist",
+      "jasa": "IDR 25.000"
+    },
+    {
+      "id": 2,
+      "nama": "Sundar Pichoi",
+      "rekomendasi": 468,
+      "bio": "Lorem ipsum dolor sit amet.",
+      "foto": "https://spesialis1.orthopaedi.fk.unair.ac.id/wp-content/uploads/2021/02/depositphotos_39258143-stock-illustration-businessman-avatar-profile-picture.jpg",
+      "daerah": "Kebon Jeruk",
+      "profesi": "Dentist",
+      "jasa": "IDR 25.000"
+    },
+    {
+      "id": 3,
+      "nama": "Sundar Pichoi",
+      "rekomendasi": 468,
+      "bio": "Lorem ipsum dolor sit amet.",
+      "foto": "https://spesialis1.orthopaedi.fk.unair.ac.id/wp-content/uploads/2021/02/depositphotos_39258143-stock-illustration-businessman-avatar-profile-picture.jpg",
+      "daerah": "Kebon Jeruk",
+      "profesi": "Dentist",
+      "jasa": "IDR 25.000"
+    },
+    {
+      "id": 4,
+      "nama": "Sundar Pichoi",
+      "rekomendasi": 468,
+      "bio": "Lorem ipsum dolor sit amet.",
+      "foto": "https://spesialis1.orthopaedi.fk.unair.ac.id/wp-content/uploads/2021/02/depositphotos_39258143-stock-illustration-businessman-avatar-profile-picture.jpg",
+      "daerah": "Kebon Jeruk",
+      "profesi": "Dentist",
+      "jasa": "IDR 25.000"
+    },
+    {
+      "id": 5,
+      "nama": "Sundar Pichoi",
+      "rekomendasi": 468,
+      "bio": "Lorem ipsum dolor sit amet.",
+      "foto": "https://spesialis1.orthopaedi.fk.unair.ac.id/wp-content/uploads/2021/02/depositphotos_39258143-stock-illustration-businessman-avatar-profile-picture.jpg",
+      "daerah": "Kebon Jeruk",
+      "profesi": "Dentist",
+      "jasa": "IDR 25.000"
+    },
+    {
+      "id": 6,
+      "nama": "Sundar Pichoi",
+      "rekomendasi": 468,
+      "bio": "Lorem ipsum dolor sit amet.",
+      "foto": "https://spesialis1.orthopaedi.fk.unair.ac.id/wp-content/uploads/2021/02/depositphotos_39258143-stock-illustration-businessman-avatar-profile-picture.jpg",
+      "daerah": "Kebon Jeruk",
+      "profesi": "Dentist",
+      "jasa": "IDR 25.000"
+    },
+    {
+      "id": 7,
+      "nama": "Sundar Pichoi",
+      "rekomendasi": 468,
+      "bio": "Lorem ipsum dolor sit amet.",
+      "foto": "https://spesialis1.orthopaedi.fk.unair.ac.id/wp-content/uploads/2021/02/depositphotos_39258143-stock-illustration-businessman-avatar-profile-picture.jpg",
+      "daerah": "Kebon Jeruk",
+      "profesi": "Dentist",
+      "jasa": "IDR 25.000"
+    },
+    {
+      "id": 8,
+      "nama": "Sundar Pichoi",
+      "rekomendasi": 468,
+      "bio": "Lorem ipsum dolor sit amet.",
+      "foto": "https://spesialis1.orthopaedi.fk.unair.ac.id/wp-content/uploads/2021/02/depositphotos_39258143-stock-illustration-businessman-avatar-profile-picture.jpg",
+      "daerah": "Kebon Jeruk",
+      "profesi": "Dentist",
+      "jasa": "IDR 25.000"
+    },
+    {
+      "id": 9,
+      "nama": "Sundar Pichoi",
+      "rekomendasi": 468,
+      "bio": "Lorem ipsum dolor sit amet.",
+      "foto": "https://spesialis1.orthopaedi.fk.unair.ac.id/wp-content/uploads/2021/02/depositphotos_39258143-stock-illustration-businessman-avatar-profile-picture.jpg",
+      "daerah": "Kebon Jeruk",
+      "profesi": "Dentist",
+      "jasa": "IDR 25.000"
+    },
+    {
+      "id": 10,
+      "nama": "Sundar Pichoi",
+      "rekomendasi": 468,
+      "bio": "Lorem ipsum dolor sit amet.",
+      "foto": "https://spesialis1.orthopaedi.fk.unair.ac.id/wp-content/uploads/2021/02/depositphotos_39258143-stock-illustration-businessman-avatar-profile-picture.jpg",
+      "daerah": "Kebon Jeruk",
+      "profesi": "Dentist",
+      "jasa": "IDR 25.000"
+    },
+    {
+      "id": 11,
+      "nama": "Sundar Pichoi",
+      "rekomendasi": 468,
+      "bio": "Lorem ipsum dolor sit amet.",
+      "foto": "https://spesialis1.orthopaedi.fk.unair.ac.id/wp-content/uploads/2021/02/depositphotos_39258143-stock-illustration-businessman-avatar-profile-picture.jpg",
+      "daerah": "Kebon Jeruk",
+      "profesi": "Dentist",
+      "jasa": "IDR 25.000"
+    }
+  ]
+}
